@@ -211,7 +211,9 @@
       "install_cmd": "pip install git+https://github.com/HKUDS/CLI-Anything.git#subdirectory=ollama/agent-harness",
       "entry_point": "cli-anything-ollama",
       "skill_md": "ollama/agent-harness/cli_anything/ollama/skills/SKILL.md",
-      "category": "ai"
+      "category": "ai",
+      "contributor": "CLI-Anything-Team",
+      "contributor_url": "https://github.com/HKUDS/CLI-Anything"
     },
     {
       "name": "obs-studio",
